@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Clock</string>
+    <string name="enter_minutes">Minutes!</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="stop_timer">Stop Timer</string>
+    <string name="reset_timer">Reset Timer</string>
+    <string name="timer">00:00:00</string>
+
+    <string-array name="Club_Name">
+        <item>ARSENAL</item>
+        <item>BARCALONA</item>
+        <item>LIVERPOOL</item>
+        <item>MANUNITED</item>
+        <item>REAL MADRID</item>
+    </string-array>
+</resources>
